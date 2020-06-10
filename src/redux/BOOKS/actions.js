@@ -1,5 +1,5 @@
 import types from './types';
-import data from '../../data.json'; // used when exceed limit of request per day
+// import data from '../../data.json'; // used when exceed limit of request per day
 export const getBooksGoogle = (title) => async (dispatch, getState) => {
   try {
     dispatch({ type: types.LOAD, loading: true });
