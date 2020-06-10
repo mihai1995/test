@@ -1,25 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router } from 'react-router-dom';
+import { useRoutes } from './routes';
+import { ThemeProvider } from 'styled-components';
+import { lightTheme, darkTheme } from './theme/theme';
+import { GlobalStyles } from './theme/global';
+import Header from './components/Menu';
 
-function App() {
+import { useSelector } from 'react-redux';
+
+function App(props) {
+  const { mode } = useSelector((state) => state.books);
+
+  const route = useRoutes();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={mode ? darkTheme : lightTheme}>
+      <GlobalStyles />
+      <h3>Digital home library</h3>
+      <Router>
+        <Header />
+        {route}
+      </Router>
+    </ThemeProvider>
   );
 }
 

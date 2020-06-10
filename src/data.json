@@ -1,0 +1,631 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 498,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xIhtv2wpR9oC",
+      "etag": "FR8IAlyaJtM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xIhtv2wpR9oC",
+      "volumeInfo": {
+        "title": "The Bed-load Function for Sediment Transportation in Open Channel Flows",
+        "authors": ["Hans Albert Einstein"],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112019331690"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 71,
+        "printType": "BOOK",
+        "categories": ["Agriculture"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xIhtv2wpR9oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xIhtv2wpR9oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xIhtv2wpR9oC&printsec=frontcover&dq=intitle:load&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xIhtv2wpR9oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xIhtv2wpR9oC"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xIhtv2wpR9oC&rdid=book-xIhtv2wpR9oC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Bed_load_Function_for_Sediment_Trans.epub?id=xIhtv2wpR9oC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Bed_load_Function_for_Sediment_Trans.pdf?id=xIhtv2wpR9oC&hl=&output=pdf&sig=ACfU3U3Vk-MQmW4w8Am89cRUyLLq9usxIg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xIhtv2wpR9oC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I8GMIwWXEQIC",
+      "etag": "mRSuKd7G3IQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I8GMIwWXEQIC",
+      "volumeInfo": {
+        "title": "Effect of Load Spectrum Variables on Fatigue Crack Initiation and Propagation",
+        "subtitle": "A Symposium",
+        "authors": ["D. F. Bryan"],
+        "publisher": "ASTM International",
+        "publishedDate": "1980",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": ["Fracture mechanics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I8GMIwWXEQIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I8GMIwWXEQIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=I8GMIwWXEQIC&printsec=frontcover&dq=intitle:load&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=I8GMIwWXEQIC&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Effect_of_Load_Spectrum_Variables_on_Fat.html?hl=&id=I8GMIwWXEQIC"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I8GMIwWXEQIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zKoPDp07uC8C",
+      "etag": "l5JHORd0DJQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zKoPDp07uC8C",
+      "volumeInfo": {
+        "title": "Little Truck Without A Load",
+        "authors": ["Andrea Syvrud Crooks"],
+        "publisher": "WestBow Press",
+        "publishedDate": "2013-06-20",
+        "description": "Little Blue sits in a truck lot, waiting to be sold. One by one, his truck friends are bought and disappear, but no one seems interested in Little Blue. Every night he whispers, “The one who built me with special care knows just what kind of loads I’ll bear.” But he is sad. Will he ever be sold and carry a load?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449797386"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449797385"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zKoPDp07uC8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zKoPDp07uC8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zKoPDp07uC8C&printsec=frontcover&dq=intitle:load&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zKoPDp07uC8C&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Little_Truck_Without_A_Load.html?hl=&id=zKoPDp07uC8C"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Little_Truck_Without_A_Load-sample-epub.acsm?id=zKoPDp07uC8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Little_Truck_Without_A_Load-sample-pdf.acsm?id=zKoPDp07uC8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zKoPDp07uC8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Little Blue sits in a truck lot, waiting to be sold."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aoQaD7JqF5sC",
+      "etag": "6Z4wHkw/Zvk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aoQaD7JqF5sC",
+      "volumeInfo": {
+        "title": "Load, Seal & Ship, 1st Edition",
+        "publisher": "Load, Seal & Ship, 1st Ed.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aoQaD7JqF5sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aoQaD7JqF5sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aoQaD7JqF5sC&printsec=frontcover&dq=intitle:load&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aoQaD7JqF5sC&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Load_Seal_Ship_1st_Edition.html?hl=&id=aoQaD7JqF5sC"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Load_Seal_Ship_1st_Edition-sample-epub.acsm?id=aoQaD7JqF5sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aoQaD7JqF5sC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IAKpGXH1TNsC",
+      "etag": "4fzqgXr81Cc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IAKpGXH1TNsC",
+      "volumeInfo": {
+        "title": "The Peak of the Load",
+        "authors": ["Mildred Aldrich"],
+        "publisher": "BiblioBazaar, LLC",
+        "publishedDate": "2009-06",
+        "description": "This is a pre-1923 historical reproduction that was curated for quality. Quality assurance was conducted on each of these books in an attempt to remove books with imperfections introduced by the digitization process. Though we have made best efforts - the books may have occasional errors that do not impede the reading experience. We believe this work is culturally important and have elected to bring the book back into print as part of our continuing commitment to the preservation of printed works worldwide.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "111088897X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781110888979"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IAKpGXH1TNsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IAKpGXH1TNsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IAKpGXH1TNsC&dq=intitle:load&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IAKpGXH1TNsC&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Peak_of_the_Load.html?hl=&id=IAKpGXH1TNsC"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IAKpGXH1TNsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a pre-1923 historical reproduction that was curated for quality. Quality assurance was conducted on each of these books in an attempt to remove books with imperfections introduced by the digitization process."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wkisSIE4NqoC",
+      "etag": "R0rXvTkNczo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wkisSIE4NqoC",
+      "volumeInfo": {
+        "title": "Guidelines for the Supplementary Load Testing of Bridges",
+        "authors": [
+          "Institution of Civil Engineers (Great Britain). National Steering Committee for the Load Testing of Bridges"
+        ],
+        "publisher": "Thomas Telford",
+        "publishedDate": "1998",
+        "description": "Bridge authorities in the UK are currently facing a large programme of bridge assessment and strengthening. This has been caused, in part, by the necessity of ensuring that the European Union deadline for allowing 40-tonne lorries on to UK roads can be met. Many bridges have failed theoretical assessments and some bridge owners, frustrated by the fact that many failed structures are apparently in good condition and showing no signs of distress, have resorted to load testing their bridges to try to provide additional information. A National Steering Committee for the Load Testing of Bridges was set up to examine the role of bridge load testing as a tool for assisting the assessment process. The National Steering Committee consists of representatives from all major bridge owners including the Highways Agency, the County Surveyors Society, the London Bridges Engineering Group, Railtrack and the British Waterways Board. It also includes representatives from consulting engineers and universities and has the support of the Institution of Civil Engineers. The overall objective of the National Steering Committee was to produce authoritative guidance on load-testing techniques; which could be used by the practising engineer to determine capacities of existing bridges/structures that are safe, prudent and minimize levels of restriction to the transport infrastructure. In June 1995 the committee appointed Rendel Palmer & Tritton in association with Peter Lindsell & Associates and supported by Professors Bakht, Clark and Harding as consultants to carry out a preliminary study of all the available information on bridge load testing. They were to recommend a detailed methodology which would form the basis of a brief to consultants appointed to produce authoritative guidelines for the load testing of bridges. Their report concluded that there is a place for load testing in the evaluation of bridges and other structures and that load testing is a valid tool for bridge managers. They also concluded that there was enough information and experience available to permit safe and effective guidelines to be written. As a result of the preliminary study the National Steering Committee decided to divide the second stage work and restrict the scope of this document to guidelines for supplementary load testing. Work on proof and proving load testing is being carried out by others under the auspices of the Highways Agency. The guidelines contained in this document were not drafted in a prescriptive form, but seek to provide advice on the appropriate use of supplementary load testing as an aid to assessment by calculation. The guidelines have been written to enable engineers to determine: when it is appropriate to consider the use of supplementary load testing; the level of risk, both public safety and economic, associated with load testing; how to plan and carry out a load test including the level of expertise necessary, the appropriate loading methods and the type and quantity of instrumentation required. In addition, the document is intended to be a source of information on load testing, measuring equipment and specialist techniques that engineers can use for reference.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0727727370"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780727727374"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": ["Technology & Engineering"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wkisSIE4NqoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wkisSIE4NqoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wkisSIE4NqoC&printsec=frontcover&dq=intitle:load&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wkisSIE4NqoC&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guidelines_for_the_Supplementary_Load_Te.html?hl=&id=wkisSIE4NqoC"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wkisSIE4NqoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a result of the preliminary study the National Steering Committee decided to divide the second stage work and restrict the scope of this document to guidelines for supplementary load testing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pUxVO7-PVpYC",
+      "etag": "6Yd9cjqsnwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pUxVO7-PVpYC",
+      "volumeInfo": {
+        "title": "Geotechnical Related Development and Implementation of Load and Resistance Factor Design (LRFD) Methods",
+        "authors": ["George Goble"],
+        "publisher": "Transportation Research Board",
+        "publishedDate": "1999",
+        "description": "\"This synthesis report will be of interest to geotechnical, structural, and bridge engineers, especially those involved in the development and implementation of the geotechnical aspects of the AASHTO Bridge Code. The synthesis documents a review of geotechnical related LRFD specifications and their development worldwide to compare them with the current AASHTO LRFD Bridge Code. Design procedures for foundations, earth retaining structures, and culverts are summarized and compared with the methods specified by the AASHTO code. This TRB report provides information designed to assist engineers in implementing the geotechnical features of LRFD methods. Information for the synthesis was collected by surveying U.S. and Canadian transportation agencies and by conducting a literature search using domestic and international sources. Interviews were also conducted with selected international experts. The limited available experience in the United States and information from international practice are discussed to understand the problems that have arisen in order that solutions may be found. Based on the studies reported here, suggestions for improving the code are identified.\"--Avant-propos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0309068541"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780309068543"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 69,
+        "printType": "BOOK",
+        "categories": ["Bridges"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pUxVO7-PVpYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pUxVO7-PVpYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pUxVO7-PVpYC&printsec=frontcover&dq=intitle:load&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pUxVO7-PVpYC&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Geotechnical_Related_Development_and_Imp.html?hl=&id=pUxVO7-PVpYC"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pUxVO7-PVpYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This synthesis report will be of interest to geotechnical, structural, and bridge engineers, especially those involved in the development and implementation of the geotechnical aspects of the AASHTO Bridge Code."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eeLyAAAAMAAJ",
+      "etag": "vqu8rMiNvnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eeLyAAAAMAAJ",
+      "volumeInfo": {
+        "title": "A Load of Sorrow",
+        "authors": ["George Chaula Panga"],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000079183863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "categories": ["Drama"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eeLyAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eeLyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eeLyAAAAMAAJ&dq=intitle:load&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eeLyAAAAMAAJ&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Load_of_Sorrow.html?hl=&id=eeLyAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eeLyAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KvchPLsPwZ8C",
+      "etag": "IpX9NhKq0aQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KvchPLsPwZ8C",
+      "volumeInfo": {
+        "title": "Development of a Probability Based Load Criterion for American National Standard A58",
+        "subtitle": "Building Code Requirements for Minimum Design Loads in Buildings and Other Structures",
+        "authors": ["Bruce Ellingwood"],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015077588575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": ["Architecture"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KvchPLsPwZ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KvchPLsPwZ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KvchPLsPwZ8C&printsec=frontcover&dq=intitle:load&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KvchPLsPwZ8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KvchPLsPwZ8C"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KvchPLsPwZ8C&rdid=book-KvchPLsPwZ8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Development_of_a_Probability_Based_Load.epub?id=KvchPLsPwZ8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Development_of_a_Probability_Based_Load.pdf?id=KvchPLsPwZ8C&hl=&output=pdf&sig=ACfU3U3p-pwWgSQCwfw_iTaNLE4qWHGIEA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KvchPLsPwZ8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dp7qAgAAQBAJ",
+      "etag": "/4nCKL6N/RY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dp7qAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Logic Load System",
+        "authors": ["Alex Brebeanu"],
+        "publisher": "Xlibris Corporation",
+        "publishedDate": "2010-03",
+        "description": "\"Revolution in Weight training\" this should really be the title of this book. Because the system promoted in this book, simply called \"Logic Load System\", is the future of training and every single person that goes into a gym, from a beginner level up to a high performance athlete, will use it as an ultimate system of training, a complex tool to enhance their performances with a mathematical precision. Logic Load System presents the latest research in Weight training. Whether you are designing a Strength & Conditioning routine for a certain sport or a Bodybuilding session, Logic Load System will provide you with over 30 methods of manipulating the weight and the repetitions, with a mathematical precision, in order to give you the best results and also to build up and plan your sessions over a training cycle. If so far, athletes were just randomly added plates on the bar, usually when increasing from one set to another, with the same ratio, regardless the level of preparation, Logic Load System will teach you how to customize the weight and the repetitions according to your level (beginner or advanced athlete) and stage of preparation ( preparatory, precompetitional, competitional or transition). At the moment, most athletes are using mainly 2-3 methods of increasing and/or decreasing the weight from set to set : - increasing the weight every set - increasing the weight every second step - increasing and then decreasing the weight Moreover, the weight is increased with 5kg, 10kg, 15 or 20kg, as this is pretty much the weight of the plates in most gyms. Consequently, the athletes are expecting to gradually increase their overall effort which is often a false affirmation. If nobody asked themselves why increasing it with 5, 10, 15 or 20 kg, now is the time to do so, because there is nothing wrong with 4, 12, 16 or 18 kg (for example) Logic Load System will clearly explain you with practical examples and graphs why and how much to increase the weight and gradually increase the overall effort from set to set, instead of just randomly throw plates on the bar with no logic in it whatsoever and yet expecting the best results. There are no two athletes with perfectly the same level of fitness and therefore the training should be different from athlete to athlete. Increasing the weight with 30 kg has a different effect on a beginner athlete as opposed to an advanced athlete. Logic Load System will teach you how to customize the weight and the reps to fit your current level of preparation and to prepare you for further improvement. Now is the time to stop being a follower. It is the time to make it work for you and be in charge of your own progress. On the same note, most of the athletes are using the same patterns of repetitions when increasing the weight from set to set. A common pattern is 12 reps -10 reps 8 reps 6 reps. Whether you are aiming for strength, power or hypertrophy, this is regarded as being the universal answer to achieve the best results one pattern fits all purposes. To claim that 4 or 5 sets at a pattern of 12 reps 10 reps 8 reps 6 reps is the best pattern for EVERY athlete is totally illogic. To claim that there is only one way to achieve your goal, is more than irrational. To claim that increasing the weight from set to set with the same ratio, regardless the stage and the level of athlete's preparation is totally ignorant. This approach has to change and Logic Load System is the only system in the world that will show you why and how to do it. Again, it is more than sure that is nothing wrong with a pattern of 11-9-7-5 reps, for example, but I very rarely saw athletes performing this pattern as we tend to perform a pattern of even number of repetitions, avoiding the odd numbers repetitions as being to odd As is not only how hard an athlete could train, but also how smart, Logic Load System will demonstrate you how many reps should be performed and, m",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781450034227"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1450034225"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": ["Education"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dp7qAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dp7qAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Dp7qAgAAQBAJ&printsec=frontcover&dq=intitle:load&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Dp7qAgAAQBAJ&dq=intitle:load&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Logic_Load_System.html?hl=&id=Dp7qAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MD",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MD",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Logic_Load_System-sample-pdf.acsm?id=Dp7qAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dp7qAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Revolution in Weight training&quot; this should really be the title of this book."
+      }
+    }
+  ]
+}
